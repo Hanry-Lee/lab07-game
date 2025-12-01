@@ -1,0 +1,5 @@
+References for Lab 08
+=====================
+
+- stop_parser.py (provided by instructor) - used as template for routes_parser.py and game state parsers
+- GTFS specification documentation - for understanding field types and validation rules
