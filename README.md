@@ -6,6 +6,13 @@
 
 https://github.com/Hanry-Lee/lab07-game/
 
+## Other Labs
+
+- [Lab 08 - Parsers](./lab08/)
+- [Lab 09 - Shape Parser](./lab09/)
+- [Lab 10 - Shape Sort](./lab10/)
+- [Lab 11 - Family Tree & Shape BST](./lab11/)
+
 ## Project Overview
 
 A PyGame video game following the How to Design Functions/Worlds/Programs (HtDF/W/P) formula. The player competes against an AI opponent to collect food items.
