@@ -8,10 +8,10 @@ https://github.com/Hanry-Lee/lab07-game/
 
 ## Other Labs
 
-- [Lab 08 - Parsers](./lab08/)
-- [Lab 09 - Shape Parser](./lab09/)
-- [Lab 10 - Shape Sort](./lab10/)
-- [Lab 11 - Family Tree & Shape BST](./lab11/)
+- [Lab 08](./lab08/)
+- [Lab 09](./lab09/)
+- [Lab 10](./lab10/)
+- [Lab 11](./lab11/)
 
 ## Project Overview
 
